@@ -1,2 +1,3 @@
-# ronswanson
-Ron Swanson Quote Generator
+# Ron Swanson Quote Generator
+
+"Why does anyone use Github" ~ Ron Swanson
